@@ -1,1 +1,1 @@
-# first-half-project
+# This is my first-half-project
